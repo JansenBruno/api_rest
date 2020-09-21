@@ -1,7 +1,9 @@
 
 
 <h1> API </h1>
+API feita para testes de CRUD com NojeJS e SQlite
 
+### O QUE É UMA API? 
 ## Cliente (Client) Garçom (pedidos, levar seus pedidos, para a cozinha) (API) Cozinha (Server)
 
 Acrônimo de Application Programming Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, para que outras aplicações possam utilizar as funcionalidades desta aplicação.
