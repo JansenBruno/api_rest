@@ -14,7 +14,7 @@ Intermediador para troca de informações
 
 #### START 
 para iniciar o projeto siga os passos: 
-* caso não queira copiar o projeto para sua maquina, abre seu terminar git bash e execute o comando: git clone ☕🤞🏾
+* caso queira copiar o projeto para sua maquina, abra seu terminar git bash e execute o comando: git clone ☕🤞🏾
 
 * Logo apos instale as dependencias com o npm. 👨🏾‍💻 👩🏾‍💻
 <h1>DEPENDENCIAS</h1>
